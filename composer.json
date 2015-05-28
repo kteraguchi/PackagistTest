@@ -1,0 +1,11 @@
+{
+    "name": "kteraguchi/packagist-test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "kteraguchi",
+            "email": "kteraguchi@commonsnet.org"
+        }
+    ],
+    "require": {}
+}
